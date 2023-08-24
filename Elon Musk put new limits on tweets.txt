@@ -1,0 +1,27 @@
+原文：Keeping up with a sports game, extreme weather conditions or a major news event isgetting harder under Musk's new rules, which cap the number of tweets you can viewas part of an apparent attempt to relieve the company's overloaded(超负荷的) web(网络)infrastructure(基础设施).
+翻译：在马斯克的新规下，（用户）想要时刻关注运动游戏，极端天气状况或者主流新闻事件等变得越来越困难，该规定限制了你能浏览的推文上限，很明显是作为缓解该公司超负荷网络基础设施尝试的一部分。
+参考：在马斯克的新规则下，keep up with/紧跟 sports game/体育比赛、极端天气状况或重大新闻事件变得越来越难。该规则限制了用户可以查看的推文数量，这显然是为了缓解该公司网络基础设施的超负荷运行。
+
+原文："The joke on Twitter is that people are going to go outside instead, but the reality isthat they're going to go to another app," said Jasmine Enberg, an analyst with Insiderlntelligence.
+翻译：内部智库分析师Jasmine Enberg表示：“推特的预期是人们将会以外出活动代替（阅读推文），但是事实上人们只是切换到了另外一个应用。”
+参考：Insider Intelligence的分析师Jasmine Enberg说：“推特上有个笑话说，人们会出去走动一下，然而事实是，他们会改用另一款应用程序。”
+
+原文：But she's been silent about the new restrictions(限制) that lock users out if they view toomany tweets in a day, leaving Musk to announce and explain them.
+翻译：但是她对这个如果用户一天之内浏览过多推文就会被封锁的限制措施保持沉默，让马斯克出面宣传并解释该规定。
+参考：但她一直对新的限制措施（如果用户在一天内查看了过多推文，就会被锁定）保持沉默，将它们留给马斯克来公布和解释
+
+原文：The moves are " remarkably bad for Twitter's users and advertisers," decimating(大大削弱)the reach(影响力) and engagement that advertisers depend on, according to a statementfrom Forrester analyst Mike Proulx.
+翻译：Forrester分析师Mike Proulx的一份声明显示，这些举动对推特用户和广告商来说是灾难性的，将会极大削弱广告商们所依靠的影响力和参与度。
+参考：弗雷斯特市场咨询公司分析师Mike Proulx的一份 statement/声明 称，这些措施“对推特的用户和广告商来说非常糟糕”，大大削弱了广告商所依赖的影响力和参与度
+
+原文：Musk had tried on Saturday to describe how the limits work, saying accounts that don'tpay for a monthly subscription(订阅) will temporarily{暂时地) be restricted to reading 60oposts(帖子) per day, while verified(经证实的) accounts will be able to scroll through up to6,000.
+翻译：马斯克在周六时尝试描述该限制是如何工作的，他表示没有购买月度订阅的账户将会暂时限制在一天最多阅读600篇推文，而已验证的账户将会（在一天内）阅读最多6000篇。
+参考：周六，马斯克试图说明如何实施这些限制，称那些没有支付包月订阅费的账户每天可以阅读的帖子数量将暂时被限制在600条，而已验证的账户最多可以浏览6000条帖子。
+
+原文：Enberg said Musk should be doing whatever he can to encourage engagement to showTwitter is still viable(可望成功的) as it faces growing competition from upstart(新贵) rivals(竞争对手), as well as a new Twitter-like service coming from Facebook and Instagram parentMeta."Instead, he's throttling(压制) it," she said.
+翻译：Enberg说，马斯克应该做他力所能及的事情去鼓励（用户）参与，以表明推特面对新的竞争对手和Facebook以及Meta旗下的Instagram发布的一些新的类似推特的应用带来的激烈竞争，它也能发展的很好。她表示：“相反，他正在抑制它。”
+参考：Enberg表示，马斯克应该竭尽全力鼓励用户参与，以表明推特仍然是可望成功的，因为它面临着新兴竞争对手，以及脸书和Instagram的母公司Meta推出的类似推特的新服务带来的日益激烈的竞争。她说：“相反，他却在限制它（用户参与度）。”
+
+原文：Advertisers have since curbed(控制) their spending on Twitter, partly because of changesthat have allowed more hateful(令人讨厌的)or prickly(易惹人生气的)content that offends awider part of the service's audience.
+翻译：广告商已经开始控制他们在推特上的投入，部分原因是（推特的）一些变动使得更多令人讨厌或者生气的内容出现，而这些内容会冒犯大多数推特用户。
+参考：此后，广告商控制了在推特上的（广告）支出，partly/一定程度上 是因为（推特的）变化允许更多充满仇恨或易惹人生气的内容发布，这些内容冒犯了 a wider part of/更广泛的 推特受众。
