@@ -1,0 +1,27 @@
+原文：with more energy absorbed(被吸收) per cell, the cost of solar electricity is even cheaper, and deployment(部署) canproceed faster to help keep global heating under control.
+翻译：随着每个电池吸收更多的能量，太阳能的造价变得更低廉，并且能够更快部署，使全球气温上涨维持在可控范围内。
+参考：因为每块电池吸收的能量变多，所以太阳能发电的成本更便宜，部署的速度也更快，从而有助于遏制全球加热。
+
+原文：Experts said that if the scaling-up of production of the tandem cells proceeds smoothly, they could be commercially商业化地) available within five years, about the same time silicon-only cells reach their maximum efficiency(效能).
+翻译：专家们表示，如果这种串联电池的增长的产能能够顺利扩大，那这些电池就有可能在五年内实现商业化，这几乎与纯硅电池达到最大效能是同一时间。
+参考：专家表示，如果串联电池的生产规模能够顺利扩大，它们可能会在未来五年内投入商用，与纯硅电池达到其最高效能的时间大致相同。
+
+原文："This year is a revolutionary year," said Prof(教授)Stefaan De Wolf, at King Abdullah University of Science andTechnology in Saudi Arabia沙特阿拉伯)."It's very exciting that things are moving rapidly with multiple groups."
+翻译：沙特阿拉伯阿卜杜拉国王科技大学的Stefaan De Wolf教授说道，“今年是革命性的一年。令人激动的是，很多团队都在迅速推进这件事情。”
+参考：沙特阿拉伯阿卜杜拉国王科技大学的Stefaan De Wolf教授表示：“今年是革命性的一年。非常令人兴奋的是，很多团队都在迅速推进这件事情。”
+
+原文：But one group, led by Prof Steve Albrecht at the Helmholtz Center Berlin for Materials and Energy in Germany(德国), hasnow published information about how they achieved efficiencies of up to 32.5% for silicon-perovskite cells.
+翻译：不过，一个由德国柏林亥姆霍兹材料与能源中心的Steve Albrech教授领导的团队，已经发布了有关他们是如何使硅-钙钛矿电池达到最大32.5%效率的信息。
+参考：不过，德国柏林亥姆霍兹材料与能源中心的Steve Albrecht教授领导的一个小组，现已发布了有关他们如何将硅-钙钛矿电池的能效提高到32.5%的信息。
+
+原文："Overcoming the 30% threshold(门槛) provides confidence that high performance(性能),low-cost(低成本的） PVs can bebrought to the market," said De Wolf.Global solar power capacity(生产能力) reached 1.2 terawatts(太瓦) (TW) in 2022.
+翻译：De Wolf说到，“克服30%的门槛为高性能，低成本的光伏产业能迈向市场提供了信心”。在2022年，全球太阳能生产能力达到了1.2太瓦。
+参考：De Wolf说：“攻克30%的门槛让我们有信心将高性能、低成本的光伏产品推向市场。”2022年，全球太阳能发电量达到了1.2太瓦（TW）。
+
+原文：All of the high-efficiency tandem cells above 30% efficiency are small .so far, measuring 1cm by 1cm. They now need tobe scaled up to the size of commercial cells, which are 15cm squares(平方).
+翻译：迄今为止，所有这些能效超过30%的高能效串联电池都很小，尺寸为1×1里面。它们需要被放大到15×15厘米的商用电池尺寸。
+参考：到目前为止，所有能效超过30%的高效串联电池都很小，尺寸为1×1厘米。它们现在需要扩大到商用电池的尺寸，即15平方厘米。
+
+原文：The solution was to put a layer of organic molecules(分子) between the perovskite and the conducting layer throughwhich the current flows, which compensated(弥补) for the defects.
+翻译：解决方法就是在钙钛矿层和电流流过的导电层之间放置一层有机分子，这就可以弥补（钙钛矿层表面的）缺陷。
+参考：解决方案是在钙钛矿和电流流过的导电层之间放置一层有机分子，以补偿缺陷。
