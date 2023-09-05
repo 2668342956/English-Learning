@@ -1,8 +1,7 @@
 例句1
 
     原文：I have come here to chew bubblegum and kick ass. And I'm out of bubblegum.
-    听写：I have come here to () and kick ass. And ().
-
+    
     chew v.咀嚼，嚼碎 n.口香糖；咀嚼物
     
     bubblegum n.口香糖
@@ -13,16 +12,13 @@
 
 例句2
     原文：Don't ever let somebody tell you, you can't do something.
-    听写：Don't () let somebody tell you, you can't do something.
-
+    
 例句3
     原文：The secret of life is just to live every moment.
-    听写：The secret of life is just (to) live [at] every moment.
-
+    
 例句4
     原文：Another rogue trader has cost a bank billions.
-    听写：Another () trader has () [the] bank (). 
-
+    
     rogue n.无赖，流氓；淘气鬼，调皮鬼 adj.暴戾的，行为失常的
     amateur n.业余爱好者；外行 adj.非专业的；不熟练的
 
