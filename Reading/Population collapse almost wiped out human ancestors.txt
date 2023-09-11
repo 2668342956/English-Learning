@@ -1,0 +1,41 @@
+原文：Scientists believe that an extreme climate event could have led to the bottlenecki瓶a that came close to wiping out ourancestral(祖先的) line(家族).
+翻译：科学家认为一场极端气候事件可能导致了那场几乎抹除我们祖先的进化瓶颈。
+参考：科学家们认为，可能是一次极端气候事件导致了瓶颈期的出现，而这个瓶颈期几乎灭绝了我们的祖先。
+
+wipe out 消灭，摧毁
+
+原文："The numbers that emerge(出现 from our study correspond to those of species(物种) that are currently at risk ofextinction(灭绝)," said Prof教授)Giorgio Manzi, an anthropologist(人类学家) at Sapienza University of Rome and a seniorauthor of the research.
+翻译：罗马大学人类学学家、同时也是本次研究的主要研究者Giorgio Manzi教授说：“出现在我们研究里面的（人口）数量和那些目前正处在灭绝危机中的物种数量一致。”
+参考：罗马大学的人类学家、该研究的资深作者乔治奥·曼奇教授说：“我们研究中出现的（人口）数量与目前面临灭绝风险的物种的数量一致。”
+
+extinction n.灭绝
+bottleneck n.瓶颈
+anthropology n.人类学
+
+原文：However, Manzi and his colleagues believe that the existential(存在的)pressures of the bottleneck could have triggered(导致) the emergence(出现) of a new species, Homo heidelbergensis, which some believe is the shared ancestorof modern humans and our cousins, the Neanderthals(尼安德特人) and Denisovans.
+翻译：然而，Manzi还有他的同事们认为，进化瓶颈所带来的压力可能导致新物种的出现：海德堡人——一些人认为是现代人类的共同祖先——以及我们的表亲尼安德特人和丹尼索瓦人。
+参考：然而，曼奇及其同事们认为，瓶颈期的生存压力可能导致了新物种“海德堡人”的出现，有人认为海德堡人是现代人类和我们的表亲“尼安德特人”、“丹尼索瓦人”的共同祖先。
+
+原文：Prof Chris .Stringer, the head of human origins at the Natural History Museum in L.ondon(伦款),who was not involved inthe research, said: " t's an extraordinary length of time.It's remarkable that we did get through at all.For a populationof that size, you just need one bad climate event, an epidemic(流行病), a volcanic eruption(火山喷发) and you're gone."
+翻译：伦敦自然历史博物馆人类起源部门负责人Chris Stringer教授没有参与该研究，他说：“这是一段异乎漫长的时间。值得庆幸的是我们最终还是挺了过来。对一个那样数量的种群，只需要一场恶劣的气候事件，一场流行病，一次火山喷发，就会灭绝。”
+参考：伦敦自然历史博物馆人类起源部门的负责人克里斯·斯特林格教授没有参与这项研究，他说：“这是一段非常长的时间。不同寻常的是，我们真的熬过来了。对于这种规模的种群，只需要一次恶劣气候事件、一场流行病或一次火山喷发，就会灭绝。”
+
+scarce adj.缺乏的，不足的；稀有的，少见的
+
+原文：However, Stringer said there was not convincing evidence for a global "blank空自" in the fossil record of early humans.raising the possibility that whatever caused the bottleneck was a more local(局部的) phenomenon(现象).
+翻译：然而，Stringer表示，并没有令人信服的证据支撑早期人类化石记录的全球空白，（他）提出另一种可能性，即不管是什么导致的瓶颈期，这都是一种比较局部现象。
+参考：然而，斯特林格表示，在早期人类的化石记录中，没有令人信服的证据表明存在全球性的“空白”，从而增加了这样一种可能性：不管是什么原因造成了瓶颈期，这都是一种比较局部的现象。
+
+原文：By looking at the different versions of genes(基因) across a population ,it is possible to roughly date when specific genesfirst emerged - the more time that has elapsed(流逝), the more chance for different variants变体 of a gene to crop up.
+翻译：通过检测族群中基因的不同版本，就有可能粗略确定某些特定的基因出现的时间——随着时间流逝的越久，一个基因的不同变种就越有可能出现。
+参考：通过察看一个种群中不同版本的基因，可以大致确定特定基因首次出现的时间——时间过得越久，一个基因出现不同变体的机会就越大。
+
+原文：By estimating the frequency with which genes have emerged over time, scientists can gain insights(了解) into howancestral populations grew and shrank(减少) over time.
+翻译：通过估计基因在过去出现的频率，科学家可以了解我们祖先的种群（规模）是如何随着时间增长、减少的。
+参考：通过估算基因随时间推移出现的频率，科学家们可以了解祖先种群（的规模）如何随着时间的推移而增大、缩小。
+
+in effect 实际上
+
+原文：Scientists now want to look at whether genetic(基因的) samples(样本) from these ancient cousins share evidence of the same bottleneck, which could give new insights into when, where and why the species diverged分化
+翻译：科学家现在想查看来是否有证据能表面自于这些远古表亲的基因样本存在相同的瓶颈期，这能（使科学家）了解这些物种在何时何地以及因何种原因分化的。
+参考：现在，科学家们想研究看看是否有证据表明这些来自远古表亲的基因样本存在相同的瓶颈期，这可能会让人们对这些物种在何时、何地以及为何分化有一些全新的了解。
