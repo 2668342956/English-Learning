@@ -1,0 +1,39 @@
+原文：The results from a major study on "weekend warriorsd(战士)" against more regular exerciser(训l练者) Suggest that evenwhen people are too busy to exercise in the working week(工作周), making up for the inactivity不活动 at the weekend canstill improve cardiovascular(心血管的) health.
+翻译：一个对“周末战士”与的更规律训练者的大型研究显示，即使人们由于忙碌而不能在工作日锻炼，周末的时候锻炼弥补不足，仍然能够改善心血管健康。
+参考：一项针对“周末战士”与锻炼更规律的人的大型研究的结果表明，即使人们在工作日没时间锻炼，利用周末来弥补（平日锻炼的）不足，仍然可以改善心血管健康。
+
+cardiovascular adj.心血管的
+
+原文：“Our findings suggest that efforts to improve physical activity, even if concentrated within one to two days of the week,should be beneficial for cardiovascular risk," said Dr(医生) Patrick Ellinor, a cardiologist(心脏病专家) at Massachusetts general hospital in Boston(波士顿).
+翻译：波士顿市麻省总医院心脏病专家Patrick Ellinor医生说：“我们的调查显示，努力加强身体锻炼，即使是集中在一周的一或两天中，也对心血管疾病有益处。”
+参考：波士顿麻省总医院的心脏病专家Patrick Ellinor医生表示：“我们的研究结果表明，努力加强身体锻炼，即使每周集中锻炼一到两天，也会有助于降低心血管风险。”
+
+physical activity 身体锻炼
+
+原文："It appears that it is the total volume of activity, rather than the pattern, that matters most."
+翻译：“这显示出运动的总量，而非运动模式，更为重要。”
+参考：“似乎总体活动量比活动模式更为重要。”
+
+it appears that 似乎，看起来
+
+原文：The researchers analysed medical records for nearly 90,000 people enrolled(登记) in the UK Biobank project. All wore wrist-mounted accelerometers that recorded their physical activity for a full week.
+翻译：研究者分析了登记在英国生物样本库中的几乎90，000人的医疗记录。所有人都佩戴了腕带式加速计，能够记录他们一整周的身体锻炼情况。
+参考：研究人员分析了近9万名录入英国生物样本库项目的人的医疗记录。所有参与者都佩戴了腕带式计速器，以记录他们一整周的身体锻炼情况。
+
+wrist-mounted adj.腕带式
+accelerometer n.加速度计；加速器 
+
+原文：According to the study, a third of the participants(参与者) were inactive(不活跃的), meaning they clocked up less than 150 minutes of moderate-to-vigorous activity each week, while 42% were classed(被分类), as active weekend warriors, racking up at least 150 minutes, mostly over one or two days.
+翻译：根据该研究，1/3的参与者表现得不活跃，意味着他们每周中高强度的活动时间没有超过150分钟，而42%的参与者被分类为积极的周末战士，（活动时间）至少达到了150分钟，且大多数集中在一或两天。
+参考：研究显示，三分之一的参与者处于不活跃状态，这意味着他们每周进行中高强度运动的时间不足150分钟，而42%的参与者被归类为活跃的“周末战士”，（他们的锻炼时间）至少达到了150分钟，大部分锻炼是在一两天之内完成的。
+
+moderate-to-vigorous 中高强度的
+rack up 累计；击倒，获胜
+
+原文：The team, led by Dr Shaan Khurshid, a cardiologist, found that both concentrated and spread-out exercise wereassociated with lower cardiovascular health risks compared with inactivity.
+翻译：由心脏病专家Shaan Khurshid医生带领的团队发现，相较于不锻炼的人，集中锻炼和分散锻炼的人都有更低的心血管患病风险。
+参考：由心脏病专家Shaan Khurshid博士领导的研究团队发现，与不运动相比，无论是集中锻炼还是分散锻炼都能降低心血管健康风险
+
+原文：“Our results may also motivate(促进) future studies of physical activity interventions(措施) delivered in a concentratedfashion(方式),which may be more practical and efficient(有效的)," said Ellinor.
+翻译：Ellinor说：“我们的研究也许也能促进未来对集中进行身体锻炼干预的研究，也许会让其更加实用、有效。”
+参考：Ellinor说：“我们的研究结果可能还会推动未来关于集中进行的身体锻炼干预的研究，这种方式可能更实用、更有效。”
