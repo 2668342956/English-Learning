@@ -1,0 +1,45 @@
+原文：Billionaire Bill Gates, who told Forbes earlier this year that he thinks that the shift(转变) to Al is " every bit as important asthe PC(电脑)," is worried about all of these challenges.
+翻译：亿万富翁比尔盖茨为这些挑战感到忧虑，今年早些时候，他告诉《福布斯》杂志，他认为向AI的转变“和个人电脑（的发明）一样重要。”
+参考：亿万富翁比尔·盖茨对这些挑战感到担忧。今年早些时候，他告诉《福布斯》杂志，他认为向人工智能的转变“与电脑（的发明）一样重要”。
+
+every bit as 完全地，同样地
+
+原文：But as articulated(被清楚地表达) in a recent blog(博客)post(帖子), he believes that Al can be used to tackle the problemsit has created.
+翻译：但是，正如（他）在最近一个博客帖上清楚地表达那样，他相信AI能够用来处理它制造出的问题。
+参考：但正如（盖茨）在最近的一篇博客帖子中所阐述的那样，他认为人工智能可以用来解决它造成的问题。
+
+articulate v.准确表达，清楚说明；口齿清楚地说，清晰地发音 adj.善于表达的；口齿清楚的
+
+原文：That's because models are trained on a vast amount of data(数据) collected from the internet(互联网),which is mired inbias(偏见) and misinformation.
+翻译：那是因为这些模型是基于互联网上获取的大量数据训练的，而互联网深陷偏见和误导信息。
+参考：这是因为这些模型的训练都基于从互联网上收集的大量数据，而互联网则深陷于偏见和错误信息之中。
+
+mire v.使...陷入泥泞，使...陷入困境
+be mired in 陷入困境
+
+原文：But Gates believes that it's possible to build Al tools that are conscious of the faulty data they are trained on and the biased assumptions(臆断) they make.
+翻译：但是盖茨相信，有可能构建一些AI工具，它们能够意识到自己训练数据中的错误数据以及它们做出来的带有偏见的推断。
+参考：但盖茨认为，可以构建一种人工智能工具，它们能够意识到自己接受训练时使用的错误数据和做出的带有偏见的臆断。
+
+原文："I'm optimistic(乐观的) that, over time, Al models can be taught to distinguish fact from fiction(虚构). One approach is tobuild human values and higher-level(更高水平的)reasoning(推理) into Al."
+翻译："不久之后，AI模型能被教会分辨虚构的事实，我对此抱有积极的态度。一种方法是为AI构建人类的价值观和更高水平的推理能力。"
+参考：“假以时日，人工智能模型就能学会分辨真假，我对此持乐观态度。一种方法是让人类价值观和更高层次的推理能力成为人工智能的组成部分。”
+
+over time 假以时日，随着时间推移
+
+原文：One example Gates discussed in his blog is how hackers(黑客) and cyber(网络的) criminals(罪犯) are using generative Altools to write code or create Al-generated voices to run(运作) phone scams(诈骗).
+翻译：盖茨在他的博客里讨论了一个例子，即黑客和网络罪犯如何应用生成式AI工具来编写代码或者创造AI生成的语音以进行电话诈骗。
+参考：盖茨在博客中讨论的一个例子是，黑客和网络犯罪分子如何利用生成式人工智能工具来编写代码或合成人工智能生成的语音，从而进行电话诈骗。
+
+hacker n.黑客
+cyber adj.网络的
+
+原文：These out-of-control impacts(影响) of the tools led some Al leaders(领导) and experts including Apple cofounder(共同创立者)Steve Wozniak.Tesla Space X and TMitter CEO(首席执行官)Elon Musk and Center for Humane .Technology cofounderTristan Harris to call for a hiatus(停顿) from the deployment(利用) of powerful Al tools in an open letter(公开信) published inlate March.
+翻译：这些工具超出控制范围的影响，导致一些AI行业领导和专家——包括苹果公司的共同创立者Steve Wozniak，特斯拉、SpaceX和推特首席执行官Elon Musk以及人类技术中心共同创立者Tristan Harris——在三月底发表的一封公开信中号召号暂停利用这些强大的AI工具。
+参考：这些工具的失控影响导致一些人工智能领域的领袖和专家——包括苹果公司的联合创始人斯蒂夫·沃兹尼亚克，特斯拉、SpaceX和推特的首席执行官埃隆·马斯克，以及人类技术中心的联合创始人特里斯坦·哈里斯，在3月底发表的一封公开信中呼吁暂停利用强大的人工智能工具。
+
+hiatus n.裂缝，空隙；间断，停顿
+out-of-control adj.失控
+nascent adj.新兴的，初期的，开始存在的
+
+be riddled with 充斥着...
